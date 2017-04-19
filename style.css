@@ -1,0 +1,114 @@
+.container-fluid.text-center{
+	background-color:#279B9B;
+}
+
+.jumbotron.vertical-center{
+
+	margin-top:30px;
+	margin-bottom:30px;
+	height:50px;
+	background-color:#279B9B;
+	padding:0px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    font-size:3em;
+    font-family:Rancho;
+    color: white;
+    margin-left: 45px;
+
+}
+div#navbar.collapse.navbar-collapse{
+	background-color:#279B9B;
+	box-shadow: 1px 1px 1px 3px #218484;
+	margin-left:45px;
+	width:90%;
+}
+.navbar-default .navbar-nav>.active>a{
+	color: white;
+    background-color: #218484;
+    font-size:20px;
+    font-family:Rancho;
+}
+
+
+.nav {
+	float:right;
+}
+
+div#block.container-fluid{
+
+	top-margin:100px;
+	padding:0;
+	background:#DCDCDC;
+}
+.jumbotron{
+	
+	margin-bottom:0px;
+	
+}
+div .col-md-4{
+	vertical-align:baseline;
+}
+
+div .col-md-4 .col-md-6 a{
+	
+	text-decoration:underline;
+}
+
+div#background.container-fluid{
+	margin-top:60px;
+	border:solid white 12px;
+	text-align:center;
+	background-image:url("kindajean.png");
+	padding:0px;
+}
+div.col-md-4 h3, div .col-md-8 h3,.col-md-6 h3{
+	margin-top:80px;
+	color:#279B9B;
+	font-weight:bold;
+	font-size:1.5em;
+}
+div.col-md-4 h4{
+	color:black;
+	font-weight:bold;
+}
+button{
+
+	display: inline-block;
+    padding: 15px 25px 15px 25px;
+    background-color: #279B9B;
+    border-radius: 10px;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2em;
+    letter-spacing: -1px;
+    border: solid 1px #279B9B;
+    box-shadow: inset 0px 0px 0px 1px  #279B9B;
+}
+
+footer{
+	background-color:rgba(135, 142, 131, 0.22);
+}
+
+
+div .col-md-8 .row .col-md-3 a{
+	
+	text-decoration:underline;
+}
+
+ .copyright {
+	text-align:center;
+	color:#a7a7a7;
+}
+div .row .col-md-8 h4, .col-md-6 h4{
+	font-weight:bold;
+	color:black;
+}
+
+
+
